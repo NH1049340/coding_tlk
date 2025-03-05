@@ -1,4 +1,4 @@
-print("Welcome to the Day of the Week Activity Recommender!")
+print("Welcome to the DayoftheWeekActivityRecommender!")
 # Store the day in a variable
 day = input("What is the day today: ")
 # Use conditional statements to recommend an activity based on the day.

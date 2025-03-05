@@ -1,5 +1,5 @@
 #Ask the user to enter a number.
-print("Hello, Welcome back to Even or Odd Number Checker "
+print("Hello, Welcome back toEven orOddNumberChecker "
       "are you ready?")
 #Store the number in a variable.
 ready = input("Are you ready? (yes/no): ")
