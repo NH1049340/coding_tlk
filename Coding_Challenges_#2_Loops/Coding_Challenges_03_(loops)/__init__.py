@@ -12,5 +12,5 @@ for number in range(1, 10, 2):
  print(number)
 
 # expand way
-for x in range(1, 11, 2):
-    print(x)
+#for x in range(1, 11, 2):
+    #print(x)
